@@ -19,7 +19,9 @@ Once Logout Button pressed User will be Redirected to the Login Screen.
 <br />
 
 ### <p align="center"> ** Important Links **</p>
+<h3 align="center"> Download and Install the App to Check the Working of the Assignment.</h3>
 #### <p align="center"> [ Download the App.](https://firebasestorage.googleapis.com/v0/b/scanner-dashboard-59be6.appspot.com/o/Login%20Test%20App.apk?alt=media&token=fd1cfde7-80db-4279-a802-9c53c86ccbb6/) </p>
+<h3 align="center"> Below is the Screen Recording of the App. Check Working in the Video</h3>
 #### <p align="center"> [ Checkout The Project Video](https://firebasestorage.googleapis.com/v0/b/scanner-dashboard-59be6.appspot.com/o/Record_2022-11-13-14-23-23.mp4?alt=media&token=142e9eee-d46a-4bb9-8591-082265622408) </p>
 
 
