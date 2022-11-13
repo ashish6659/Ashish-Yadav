@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Login Test App</string>
+    <string name="ep">Encrypted password</string>
+</resources>
