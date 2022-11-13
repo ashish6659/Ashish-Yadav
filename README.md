@@ -1,6 +1,6 @@
 <h3 align="center"> Introducing to Login Test Android App </h3>
 
-In this App Login using Email OTP is implemented, Where user has to enter their Valid Email and an OTP will sent Using SMTP( Simmple Mail Transfer Protocol) and mail contain 6-digit OTP Code. The user have to enter the Code Under 30 sec because there is a time limit After 30 sec code will Expire.
+In this App Login using Email OTP is implemented, Where user has to enter their Valid Email and an OTP will be sent Using SMTP( Simple Mail Transfer Protocol) and mail contain 6-digit OTP Code. The user have to enter the Code Under 30 sec because there is a time limit After 30 sec code will Expire.
 After Successful Login, The User Email will be Displayed on the Next Screen along with Logout Button.
 Once Logout Button pressed User will be Redirected to the Login Screen.
 
@@ -41,6 +41,12 @@ Once Logout Button pressed User will be Redirected to the Login Screen.
 
 
 To run this project in Android Studio, Using Git [Copy this Link !!](https://github.com/ashish6659/Ashish-Yadav.git).
+
+``` 
+
+https://github.com/ashish6659/Ashish-Yadav.git
+
+```
 
 or Download .zip file, Extract and import into Android Studio. [Download Here !!](https://github.com/ashish6659/Ashish-Yadav/archive/refs/heads/master.zip).
 
